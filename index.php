@@ -922,7 +922,7 @@ function formatSize($bytes) {
         </div>
 
         <footer>
-            <p style="font-size: 0.9rem;">DEVELOPED BY <strong style="color: #4cc9f0;">UK-HACKER</strong></p>
+            <p style="font-size: 0.9rem;">DEVELOPED BY <strong style="color: #4cc9f0;">mr ahad</strong></p>
         </footer>
     </div>
 
